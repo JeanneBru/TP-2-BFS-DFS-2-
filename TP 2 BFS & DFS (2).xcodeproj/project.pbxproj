@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		D7E25DEA24250F580039E0A0 /* TP 2 BFS & DFS (2) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "TP 2 BFS & DFS (2)"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7E25DED24250F580039E0A0 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		D7E25DF424250F780039E0A0 /* graphe.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = graphe.h; sourceTree = "<group>"; };
+		D7E25DF524250F890039E0A0 /* sommet.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sommet.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,8 @@
 			isa = PBXGroup;
 			children = (
 				D7E25DED24250F580039E0A0 /* main.cpp */,
+				D7E25DF424250F780039E0A0 /* graphe.h */,
+				D7E25DF524250F890039E0A0 /* sommet.h */,
 			);
 			path = "TP 2 BFS & DFS (2)";
 			sourceTree = "<group>";
